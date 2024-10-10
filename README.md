@@ -20,7 +20,7 @@
 	- Hint: These new monsters can be similar to the existing monsters (i.e. `Goblin`), but with different names and stats.
 
 3. **Update the `LoadMonsters` Method:**
-	- Modify the `LoadMonsters` method in `GameEngine.cs` to add the new monster to a room.
+	- Modify the `LoadMonsters` method in `GameEngine.cs` to add both the new monsters to the same room.
 
 4. **Modify the `AttackCharacter` Method:**
 	- Update the `AttackCharacter` method in `GameEngine.cs` to allow the player to select which monster to attack.
