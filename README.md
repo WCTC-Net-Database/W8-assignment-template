@@ -9,7 +9,7 @@
 - Ensure that monster is removed from the room after they are attacked/killed.
 
 #### Instructions:
-1. ** Add a new room:**
+1. **Add a new room:**
 	- Create two new rooms in the `RoomFactory` class.
 	- Tip: Use the `SetupRooms` method in the `GameEngine` class to add the new room.
 	- Tip: The new room should be connected to an existing room.  Be sure to carefully update `SetupRooms`
